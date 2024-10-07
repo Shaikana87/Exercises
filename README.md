@@ -1,7 +1,3 @@
-Certainly! Here’s the README content formatted with justified alignment and appropriate spacing for clarity, suitable for GitHub:
-
----
-
 # 14 Days HTML Challenge 🚀
 
 Welcome to my **14 Days HTML Challenge**! Over the next two weeks, I’ll be diving into HTML and CSS, focusing on lessons, quizzes, and practical exercises. Each day, I’ll tackle a set of topics to build a solid foundation in web development. All code and projects will be uploaded to this GitHub repository for reference and learning. 📁
@@ -97,7 +93,3 @@ All code, exercises, and projects will be uploaded daily to this GitHub reposito
 
 ## Conclusion 🏁
 This challenge is a fantastic opportunity to enhance my HTML and CSS skills. I’ll be documenting my progress, projects, and insights throughout this journey. Stay tuned for updates!
-
----
-
-This layout should look clean and organized on GitHub. Let me know if you need any more adjustments!
