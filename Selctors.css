@@ -1,0 +1,41 @@
+.box-1
+{
+  border:1px solid green;
+  padding: 20px;
+  color: green;
+
+}
+.box-2
+{
+  border:1px solid blue;
+  padding: 20px;
+  color: blue;
+}
+.box-1,.box-2
+{
+  height: 200px;
+  width: 200px;
+}
+button
+{
+  background-color: navy;
+  color: white;
+  border: none;
+}
+button:hover
+{
+  cursor: pointer;
+  opacity: 0.7;
+  background-color: navy;
+  color: greenyellow;
+}
+.pd
+{
+  color: white;
+  height:200px;
+  width: 200px;
+  background-color: navy;
+  line-height: 200px;
+  text-align: center;
+  border: 5px solid greenyellow;
+}
